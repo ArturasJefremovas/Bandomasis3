@@ -1,64 +1,64 @@
 {
-    "cars": [
-        {
-          "id": "1",
-          "brand": "Audi",
-          "model": "Q6",
-          "year": 2015,
-          "fuelTypes": "gas",
+  "cars": [
+      {
+        "id": "1",
+        "brand": "Audi",
+        "model": "Q6",
+        "year": 2015,
+        "fuelTypes": "gas",
+        "price": {
+          "amount": 25000,
+          "currency": "$"
+        },
+        "imgSrc": "http://www.audicafe.it/wp-content/uploads/2020/03/media-Audi-e-tron-Sportback-Edition-one_002.jpg"
+      },
+      {
+          "id": "2",
+          "brand": "Volvo",
+          "model": "XC90",
+          "year": 2008,
+          "fuelTypes": "dysel",
           "price": {
-            "amount": 25000,
+            "amount": 15000,
             "currency": "$"
           },
-          "imgSrc": "http://www.audicafe.it/wp-content/uploads/2020/03/media-Audi-e-tron-Sportback-Edition-one_002.jpg"
+          "imgSrc": "https://imgctcf.aeplcdn.com/thumbs/p-nc-b-ver54/images/car-data/big/2021Ct/volvo-xc90-default.jpg"
         },
         {
-            "id": "2",
-            "brand": "Volvo",
-            "model": "XC90",
-            "year": 2008,
-            "fuelTypes": "dysel",
-            "price": {
-              "amount": 15000,
-              "currency": "$"
-            },
-            "imgSrc": "https://imgctcf.aeplcdn.com/thumbs/p-nc-b-ver54/images/car-data/big/2021Ct/volvo-xc90-default.jpg"
+          "id": "3",
+          "brand": "KIA",
+          "model": "ProCeed",
+          "year": 2010,
+          "fuelTypes": "petrol",
+          "price": {
+            "amount": 10000,
+            "currency": "€"
           },
-          {
-            "id": "3",
-            "brand": "KIA",
-            "model": "ProCeed",
-            "year": 2010,
-            "fuelTypes": "petrol",
-            "price": {
-              "amount": 10000,
-              "currency": "€"
-            },
-            "imgSrc": "https://s1.15min.lt/images/photos/2018/09/14/original/naujasis-kia-proceed-5b9bbb6c9b71d.jpg"
+          "imgSrc": "https://s1.15min.lt/images/photos/2018/09/14/original/naujasis-kia-proceed-5b9bbb6c9b71d.jpg"
+        },
+        {
+          "id": "4",
+          "brand": "Tesla",
+          "model": "S",
+          "year": 2011,
+          "fuelTypes": "electric",
+          "price": {
+            "amount": 50000,
+            "currency": "€"
           },
-          {
-            "id": "4",
-            "brand": "Tesla",
-            "model": "S",
-            "year": 2011,
-            "fuelTypes": "electric",
-            "price": {
-              "amount": 50000,
-              "currency": "€"
-            },
-            "imgSrc": "https://d2uf4zk8t94n2d.cloudfront.net/60791/DSC03005.JPG"
+          "imgSrc": "https://d2uf4zk8t94n2d.cloudfront.net/60791/DSC03005.JPG"
+        },
+        {
+          "id": "5",
+          "brand": "BMW",
+          "model": "X6",
+          "year": 2011,
+          "fuelTypes": "hybrid",
+          "price": {
+            "amount": 30000,
+            "currency": "€"
           },
-          {
-            "id": "5",
-            "brand": "BMW",
-            "model": "X6",
-            "year": 2011,
-            "fuelTypes": "hybrid",
-            "price": {
-              "amount": 30000,
-              "currency": "€"
-            },
-            "imgSrc": "https://www.elcarrocolombiano.com/wp-content/uploads/2020/02/20200208-BMW-X6-2020-COLOMBIA-PRECIO-CARACTERISTICAS-02.jpg"
-          }
-    ]
+          "imgSrc": "https://www.elcarrocolombiano.com/wp-content/uploads/2020/02/20200208-BMW-X6-2020-COLOMBIA-PRECIO-CARACTERISTICAS-02.jpg"
+        }
+  ]
 }

@@ -8,5 +8,5 @@
 $ npm i
 
 ## Paleidimas
-$ npm run start-win
-$ npm run start-unix
+* npm run start-win
+* npm run start-unix
